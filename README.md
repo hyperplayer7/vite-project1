@@ -32,7 +32,7 @@
 
 
 ### Project URL
-<!-- - https://urlsession-upload-backend-codebruh.onrender.com/ -->
+- https://vite-project11.onrender.com/
 
 ### Github URL
 - https://github.com/hyperplayer7/vite-project1
@@ -40,9 +40,10 @@
 ### Credits / References
 <!-- - https://www.youtube.com/watch?v=bnCOyGaSe84 -->
 - https://github.com/Ileriayo/markdown-badges
+- https://vitejs.dev/guide/static-deploy.html
 
 ### Next Iteration
-- Make app read data from the API
-- Deploy to render
+- Make app read data from the API - DONE
+- Deploy to render - DONE
 - Refactor
 - Add styling
